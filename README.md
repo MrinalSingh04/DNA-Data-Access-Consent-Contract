@@ -11,7 +11,7 @@ The contract **never stores raw DNA data** on-chain. Instead, it stores **conten
  
 - 👤 **Subject-controlled DNA registration** — individuals register encrypted references to their DNA data.  
 - ⏳ **Time-limited consent** — subjects can grant researchers access for a specific duration. 
-- ❌ **Revoke anytime** — subjects can revoke researcher access immediately. 
+- ❌ **Revoke anytime** — subjects can revoke researcher access immediately.  
 - 🧾 **Audit log** — every action (DNA registration, consent granted/revoked) is permanently logged on-chain. 
 - 🧑‍🔬 **Researcher registry** — researchers must register before they can be granted access.
 - ✅ **Access check** — anyone can verify whether a researcher has valid permission.
