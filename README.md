@@ -8,7 +8,7 @@ This smart contract provides a **secure, transparent, and trustless system** for
 The contract **never stores raw DNA data** on-chain. Instead, it stores **content references** such as IPFS hashes or encrypted blob identifiers.
  
 ### Core Features:
- 
+  
 - 👤 **Subject-controlled DNA registration** — individuals register encrypted references to their DNA data.  
 - ⏳ **Time-limited consent** — subjects can grant researchers access for a specific duration. 
 - ❌ **Revoke anytime** — subjects can revoke researcher access immediately.  
