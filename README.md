@@ -9,7 +9,7 @@ The contract **never stores raw DNA data** on-chain. Instead, it stores **conten
  
 ### Core Features:
  
-- 👤 **Subject-controlled DNA registration** — individuals register encrypted references to their DNA data.
+- 👤 **Subject-controlled DNA registration** — individuals register encrypted references to their DNA data. 
 - ⏳ **Time-limited consent** — subjects can grant researchers access for a specific duration. 
 - ❌ **Revoke anytime** — subjects can revoke researcher access immediately.
 - 🧾 **Audit log** — every action (DNA registration, consent granted/revoked) is permanently logged on-chain. 
